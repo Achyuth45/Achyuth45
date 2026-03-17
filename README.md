@@ -1,3 +1,49 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Achyuth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Title -->
+<h2 style="color:#00F7F7;">AI/ML Enthusiast 🤖</h2>
+
+<!-- Social Buttons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/achyuth-chandanapu-653a81371">
+    <img src="https://img.shields.io/badge/LinkedIn-Achyuth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chandanapuachyuth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+---
+
+<!-- About Section with Image -->
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 📊 About Me
+
+- 🎓 AI/ML Student  
+- 🐍 Skilled in Python & SQL  
+- 📊 Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- 🚀 Currently building Machine Learning projects  
+- 🎯 Interested in Data Science & Problem Solving  
+- 💡 Goal: Become a Data Scientist  
+
+---
+
+<!-- Bottom Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284126-19d5a2b4-6e2b-4a8d-94df-7e6d4c1b01b4.gif" width="100%">
+
+
+
+
+
 # 💫 About Me:
 A motivated AI and ML student with knowledge of Python and SQL and hands-on experience with data science libraries such as NumPy, Pandas, Scikit-learn, Matplotlib, and Seaborn. Passionate about data analysis and machine learning, with a strong interest in extracting meaningful insights from data and building intelligent solutions. Eager to apply my technical skills, learn from real-world challenges, and contribute effectively in a professional environment
 
