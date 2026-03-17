@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Achyuth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Animated Header (new unique gradient colors) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=200&section=header&text=Achyuth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Title -->
-<h2 style="color:#00F7F7;">AI/ML Enthusiast 🤖</h2>
+<h2 style="color:#FF6FD8;">AI/ML Enthusiast 🤖</h2>
 
-<!-- Social Buttons -->
+<!-- Social Buttons (only LinkedIn + Gmail, no extra text) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/achyuth-chandanapu-653a81371">
-    <img src="https://img.shields.io/badge/LinkedIn-Achyuth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:chandanapuachyuth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF3C3C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
