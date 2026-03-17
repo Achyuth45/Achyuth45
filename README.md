@@ -64,11 +64,8 @@ class Achyuth:
 
 <!-- Bottom Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284126-19d5a2b4-6e2b-4a8d-94df-7e6d4c1b01b4.gif" width="100%">
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
 
 # 💫 About Me:
 A motivated AI and ML student with knowledge of Python and SQL and hands-on experience with data science libraries such as NumPy, Pandas, Scikit-learn, Matplotlib, and Seaborn. Passionate about data analysis and machine learning, with a strong interest in extracting meaningful insights from data and building intelligent solutions. Eager to apply my technical skills, learn from real-world challenges, and contribute effectively in a professional environment
