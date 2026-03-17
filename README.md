@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Animated Header (new unique gradient colors) -->
+<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=200&section=header&text=Achyuth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- Title -->
-<h2 style="color:#FF6FD8;">AI/ML Enthusiast 🤖</h2>
+<!-- Typing Animation (changing roles with icons) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF6FD8&center=true&vCenter=true&width=700&height=80&lines=AI+Enthusiast+🤖;Full+Stack+Developer+💻;Python+Developer+🐍" />
 
-<!-- Social Buttons (only LinkedIn + Gmail, no extra text) -->
+<br>
+
+<!-- Social Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/achyuth-chandanapu-653a81371">
     <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -28,12 +30,35 @@
 
 ### 📊 About Me
 
-- 🎓 AI/ML Student  
-- 🐍 Skilled in Python & SQL  
-- 📊 Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
-- 🚀 Currently building Machine Learning projects  
-- 🎯 Interested in Data Science & Problem Solving  
-- 💡 Goal: Become a Data Scientist  
+<!-- About Me Section (Python Style Code) -->
+
+```python
+class Achyuth:
+    def __init__(self):
+        self.pronouns = "He/Him"
+        self.location = "India 🇮🇳"
+        self.role = "AI/ML Student 🤖"
+        self.skills = ["Python 🐍", "SQL 🗄️"]
+        self.libraries = [
+            "NumPy 📐",
+            "Pandas 🐼",
+            "Scikit-learn 🤖",
+            "Matplotlib 📊",
+            "Seaborn 🎨"
+        ]
+        self.interests = [
+            "Data Science 📊",
+            "Machine Learning 🤖",
+            "Problem Solving 🧠"
+        ]
+        self.current_focus = "Building ML Projects 🚀"
+        self.motto = "Turning data into insights 🚀"
+
+    def life_loop(self):
+        while True:
+            self.learn()
+            self.build()
+            self.improve() 
 
 ---
 
