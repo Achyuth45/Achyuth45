@@ -59,8 +59,8 @@ class Achyuth:
             self.learn()
             self.build()
             self.improve() 
+```
 
----
 
 <!-- Bottom Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284126-19d5a2b4-6e2b-4a8d-94df-7e6d4c1b01b4.gif" width="100%">
