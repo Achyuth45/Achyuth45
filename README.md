@@ -37,22 +37,22 @@ class Achyuth:
     def __init__(self):
         self.pronouns = "He/Him"
         self.location = "India 🇮🇳"
-        self.role = "AI/ML Student 🤖"
-        self.skills = ["Python 🐍", "SQL 🗄️"]
+        self.role = "AI/ML Student "
+        self.skills = ["Python ", "SQL "]
         self.libraries = [
-            "NumPy 📐",
-            "Pandas 🐼",
-            "Scikit-learn 🤖",
-            "Matplotlib 📊",
-            "Seaborn 🎨"
+            "NumPy ",
+            "Pandas ",
+            "Scikit-learn ",
+            "Matplotlib ",
+            "Seaborn "
         ]
         self.interests = [
-            "Data Science 📊",
-            "Machine Learning 🤖",
-            "Problem Solving 🧠"
+            "Data Science ",
+            "Machine Learning ",
+            "Problem Solving "
         ]
-        self.current_focus = "Building ML Projects 🚀"
-        self.motto = "Turning data into insights 🚀"
+        self.current_focus = "Building ML Projects "
+        self.motto = "Turning data into insights "
 
     def life_loop(self):
         while True:
