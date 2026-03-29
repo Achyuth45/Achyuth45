@@ -37,7 +37,7 @@ class Achyuth:
     def __init__(self):
         self.pronouns = "He/Him"
         self.location = "India 🇮🇳"
-        self.role = "AI/ML Student "
+        self.role = "AI/ML Student & Aspiring Full Stack Developer"
         self.skills = ["Python ", "SQL "]
         self.libraries = [
             "NumPy ",
@@ -47,11 +47,12 @@ class Achyuth:
             "Seaborn "
         ]
         self.interests = [
-            "Data Science ",
+            "Python Fullstack Development ",
+            "Backend Development",
             "Machine Learning ",
             "Problem Solving "
         ]
-        self.current_focus = "Building ML Projects "
+        self.current_focus = "Building Full Stack Applications & ML Projects "
         self.motto = "Turning data into insights "
 
     def life_loop(self):
