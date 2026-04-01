@@ -118,7 +118,10 @@ A motivated AI and ML student with knowledge of Python and SQL and hands-on expe
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Achyuth45&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Achyuth45&theme=radical)
+
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Achyuth45&layout=compact&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Achyuth45&theme=onedark)
