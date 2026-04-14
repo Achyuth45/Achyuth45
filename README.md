@@ -114,13 +114,15 @@ A motivated AI and ML student with knowledge of Python and SQL and hands-on expe
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Achyuth45&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Achyuth45&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Achyuth45&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Achyuth45&show_icons=true&theme=radical)
+---
+[![](https://komarev.com/ghpvc/?username=Achyuth45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Achyuth45&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Achyuth45&layout=compact&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🏆 GitHub Trophies
